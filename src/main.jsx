@@ -23,8 +23,8 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <App notes={notes} />
 )
 
-const result = notes.map(note => note.id)
-console.log(result)
+// const result = notes.map(note => note.id)
+// console.log(result)
 
-const content = notes.map(note => note.content)
-console.log(content)
+// const content = notes.map(note => note.content)
+// console.log(content)
